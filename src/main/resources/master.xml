@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8"?>
+<databaseChangeLog
+    xmlns="http://www.liquibase.org/xml/ns/dbchangelog"
+    xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+    xsi:schemaLocation="http://www.liquibase.org/xml/ns/dbchangelog http://www.liquibase.org/xml/ns/dbchangelog/dbchangelog-3.5.xsd">
+	<include file="src/main/resources/changelog/20220628135007_add_table_validateObjects.xml" relativeToChangelogFile="false"/>
+	<include file="src/main/resources/changelog/20220628135007_add_table_validateList.xml" relativeToChangelogFile="false"/>
+	<include file="src/main/resources/changelog/20220628135007_add_table_validNames.xml" relativeToChangelogFile="false"/>
+	<include file="src/main/resources/changelog/20220628135007_add_table_User.xml" relativeToChangelogFile="false"/>
+	<include file="src/main/resources/changelog/20220628135007_add_table_Titulos.xml" relativeToChangelogFile="false"/>
+	<include file="src/main/resources/changelog/20220628135007_add_table_Usuario.xml" relativeToChangelogFile="false"/>
+	<include file="src/main/resources/changelog/20220628135007_add_table_UsuarioTrans.xml" relativeToChangelogFile="false"/>
+	<include file="src/main/resources/changelog/20220628135007_add_table_product.xml" relativeToChangelogFile="false"/>
+	<include file="src/main/resources/changelog/20220628135007_add_table_priceProduct.xml" relativeToChangelogFile="false"/>
+	<include file="src/main/resources/changelog/20220628135007_add_table_genero.xml" relativeToChangelogFile="false"/>
+	<include file="src/main/resources/changelog/20220628135007_add_table_typeProduct.xml" relativeToChangelogFile="false"/>
+	<include file="src/main/resources/changelog/20220628135007_add_table_validateTypes.xml" relativeToChangelogFile="false"/>
+
+</databaseChangeLog>
